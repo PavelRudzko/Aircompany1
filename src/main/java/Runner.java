@@ -1,3 +1,9 @@
+
+/** A program for task " Clean code "
+ * @ checked by Pavel Rudzko
+ */
+
+
 import models.MilitaryType;
 import Planes.MilitaryPlane;
 import Planes.PassengersPlanes;
