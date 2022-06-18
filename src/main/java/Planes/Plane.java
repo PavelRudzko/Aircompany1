@@ -3,7 +3,7 @@
 // made by Vitali Shulha
 // 4-Jan-2019*/
 
-package Planes;
+package CleanCode.src.main.java.Planes;
 
 import java.util.Objects;
 

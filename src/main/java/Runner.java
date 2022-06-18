@@ -1,18 +1,18 @@
-
+package CleanCode.src.main.java;
 /** A program for task " Clean code "
  * @ checked by Pavel Rudzko
  */
 
 
-import models.MilitaryType;
-import Planes.MilitaryPlane;
-import Planes.PassengersPlanes;
-import Planes.Plane;
+import CleanCode.src.main.java.models.MilitaryType;
+import CleanCode.src.main.java.Planes.MilitaryPlane;
+import CleanCode.src.main.java.Planes.PassengersPlanes;
+import CleanCode.src.main.java.Planes.Plane;
 import java.util.Arrays;
 import java.util.List;
 
 public class Runner {
-    static List<Plane> planes = Arrays.asList(
+    public static List<Plane> planes = Arrays.asList(
             new PassengersPlanes("Boeing-737", 900, 12000, 60500, 164),
             new PassengersPlanes("Boeing-737-800", 940, 12300, 63870, 192),
             new PassengersPlanes("Boeing-747", 980, 16100, 70500, 242),

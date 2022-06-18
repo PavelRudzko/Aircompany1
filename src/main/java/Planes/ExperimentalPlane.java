@@ -1,11 +1,11 @@
-package Planes;
+package CleanCode.src.main.java.Planes;
 
 // version: 1.1
 // made by Vitali Shulha
 // 4-Jan-2019
 
-import models.ClassificationLevel;
-import models.ExperimentalTypes;
+import CleanCode.src.main.java.models.ClassificationLevel;
+import CleanCode.src.main.java.models.ExperimentalTypes;
 
 public class ExperimentalPlane extends Plane{
 

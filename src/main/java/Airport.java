@@ -1,15 +1,15 @@
-
+package CleanCode.src.main.java;
 // version: 1.1
 // made by Vitali Shulha
 // 4-Jan-2019
 
 
 
-import Planes.ExperimentalPlane;
-import models.MilitaryType;
-import Planes.MilitaryPlane;
-import Planes.PassengersPlanes;
-import Planes.Plane;
+import CleanCode.src.main.java.Planes.ExperimentalPlane;
+import CleanCode.src.main.java.models.MilitaryType;
+import CleanCode.src.main.java.Planes.MilitaryPlane;
+import CleanCode.src.main.java.Planes.PassengersPlanes;
+import CleanCode.src.main.java.Planes.Plane;
 
 import java.util.*;
 

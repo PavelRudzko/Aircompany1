@@ -1,4 +1,4 @@
-package Planes;
+package CleanCode.src.main.java.Planes;
 
 // version: 1.1
 // made by Vitali Shulha

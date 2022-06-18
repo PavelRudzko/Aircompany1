@@ -1,13 +1,15 @@
-import Planes.MilitaryPlane;
-import Planes.PassengersPlanes;
-import Planes.Plane;
-import Planes.ExperimentalPlane;
-import models.ClassificationLevel;
-import models.MilitaryType;
+package CleanCode.src.test.java;
+
+import CleanCode.src.main.java.Airport;
+import CleanCode.src.main.java.Planes.ExperimentalPlane;
+import CleanCode.src.main.java.Planes.MilitaryPlane;
+import CleanCode.src.main.java.Planes.PassengersPlanes;
+import CleanCode.src.main.java.Planes.Plane;
+import CleanCode.src.main.java.Runner;
+import CleanCode.src.main.java.models.ClassificationLevel;
+import CleanCode.src.main.java.models.MilitaryType;
 import org.junit.Assert;
 import org.junit.Test;
-//import org.testng.Assert;
-//import org.testng.annotations.Test;
 
 import java.util.List;
 
